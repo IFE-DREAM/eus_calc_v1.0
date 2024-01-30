@@ -85,7 +85,7 @@ var RBY = {
     Gust: { bp: 40, type: 'Normal' },
     Haze: { bp: 0, category: 'Status', type: 'Ice' },
     'High Jump Kick': { bp: 85, type: 'Fighting', hasCrashDamage: true },
-    'Horn Drill': { bp: 140, type: 'Bug' , recoil: [44, 100]},
+    'Horn Drill': { bp: 140, type: 'Bug' , recoil: [44, 100] , makesContact: true },
     'Hyper Beam': { bp: 150, type: 'Normal' },
     'Jump Kick': { bp: 70, type: 'Fighting', hasCrashDamage: true },
     'Karate Chop': { bp: 50, type: 'Normal' },
