@@ -2163,13 +2163,13 @@ var ADV_PATCH = {
         abilities: { 0: 'Sturdy' }
     },
     Latias: {
-        types: ['Dragon', 'Psychic'],
+        types: ['Dragon', 'Ghost'],
         bs: { hp: 80, at: 80, df: 90, sa: 110, sd: 130, sp: 110 },
         weightkg: 40,
         abilities: { 0: 'Levitate' }
     },
     Latios: {
-        types: ['Dragon', 'Psychic'],
+        types: ['Dragon', 'Ice'],
         bs: { hp: 80, at: 90, df: 80, sa: 130, sd: 110, sp: 110 },
         weightkg: 60,
         abilities: { 0: 'Levitate' }
