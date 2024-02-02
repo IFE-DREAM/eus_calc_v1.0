@@ -5715,14 +5715,14 @@ var XY_PATCH = {
         baseSpecies: 'Kangaskhan'
     },
     'Latias-Mega': {
-        types: ['Dragon', 'Psychic'],
+        types: ['Dragon', 'Ghost'],
         bs: { hp: 80, at: 100, df: 120, sa: 140, sd: 150, sp: 110 },
         weightkg: 52,
         abilities: { 0: 'Levitate' },
         baseSpecies: 'Latias'
     },
     'Latios-Mega': {
-        types: ['Dragon', 'Psychic'],
+        types: ['Dragon', 'Ice'],
         bs: { hp: 80, at: 130, df: 100, sa: 160, sd: 120, sp: 110 },
         weightkg: 70,
         abilities: { 0: 'Levitate' },
