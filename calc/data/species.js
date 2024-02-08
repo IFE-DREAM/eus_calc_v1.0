@@ -2006,7 +2006,7 @@ var ADV_PATCH = {
     },
     'Deoxys-Defense': {
         types: ['Psychic'],
-        bs: { hp: 50, at: 70, df: 160, sa: 70, sd: 160, sp: 90 },
+        bs: { hp: 50, at: 50, df: 160, sa: 90, sd: 160, sp: 90 },
         weightkg: 60.8,
         abilities: { 0: 'Pressure' },
         gender: 'N',
