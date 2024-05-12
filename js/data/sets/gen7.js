@@ -2160,7 +2160,7 @@ var SETDEX_SM = {
   "Naviathan": {},
   "Scraggy": {
     "Island Kahuna Hala (must)": {
-      "level": 27,
+      "level": 29,
       "ability": "Intimidate",
       "item": "Eviolite",
       "nature": "Sassy",
@@ -3406,7 +3406,7 @@ var SETDEX_SM = {
   "Ekans": {},
   "Duosion": {
     "Island Kahuna Hala (must)": {
-      "level": 27,
+      "level": 28,
       "ability": "Magic Guard",
       "item": "Flame Orb",
       "nature": "Relaxed",
@@ -5881,7 +5881,7 @@ var SETDEX_SM = {
   "Marowak": {},
   "Buzzwole": {
     "Island Kahuna Hala (must)": {
-      "level": 28,
+      "level": 29,
       "ability": "Beast Boost",
       "item": "Expert Belt",
       "nature": "Hardy",
@@ -7306,7 +7306,7 @@ var SETDEX_SM = {
   "Silvally-Psychic": {},
   "Electabuzz": {
     "Island Kahuna Hala (must)": {
-      "level": 26,
+      "level": 27,
       "ability": "Static",
       "item": "Life Orb",
       "nature": "Adamant",
@@ -8530,7 +8530,6 @@ var SETDEX_SM = {
       "nature": "Jolly",
       "moves": [
         "Leech Life",
-        "Supersonic",
         "Super Fang"
       ]
     }
@@ -10775,8 +10774,7 @@ var SETDEX_SM = {
       "nature": "Careful",
       "moves": [
         "Thunder Shock",
-        "Magnet Bomb",
-        "Supersonic"
+        "Magnet Bomb"
       ]
     }
   },
@@ -12149,7 +12147,7 @@ var SETDEX_SM = {
   "Silvally-Bug": {},
   "Crabominable": {
     "Island Kahuna Hala (must)": {
-      "level": 28,
+      "level": 29,
       "ability": "Iron Fist",
       "item": "Black Belt",
       "nature": "Careful",
